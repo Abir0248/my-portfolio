@@ -33,28 +33,28 @@ const About = () => {
             />
           </h1>
           <p>
-            As a passionate Computer Science Engineering graduate, I've always
-            been driven by the intricacies of software engineering and the
-            transformative power of technology. My foundation in programming is
-            coupled with a robust problem-solving acumen, ensuring that I can
-            tackle complex challenges and contribute meaningfully to team-driven
-            goals. Every line of code I write is a testament to my attention to
-            detail, while my adaptability ensures I stay at the forefront of the
-            ever-evolving landscape of Software Engineering.
+            As a passionate Computer Science Engineering graduate, I've
+            alwaysbeen driven by the intricacies of software engineering and
+            thetransformative power of technology. My foundation in programming
+            iscoupled with a robust problem-solving acumen, ensuring that I
+            cantackle complex challenges and contribute meaningfully to
+            team-drivengoals. Every line of code I write is a testament to my
+            attention todetail, while my adaptability ensures I stay at the
+            forefront of theever-evolving landscape of Software Engineering.
           </p>
           <p align="LEFT">
-            Specializing as a MERN-Stack developer, my ambition is not just to
-            code but to innovate. I am on the lookout for a dynamic role within
-            a forward-thinking IT firm, a place where I can harness the latest
-            technologies and work on projects that push the boundaries of what's
-            possible.
+            Specializing as a MERN-Stack developer, my ambition is not just
+            tocode but to innovate. I am on the lookout for a dynamic role
+            withina forward-thinking IT firm, a place where I can harness the
+            latesttechnologies and work on projects that push the boundaries of
+            what'spossible.
           </p>
           <p>
-            Confidence and curiosity are the twin engines of my professional
-            journey. With a ceaseless desire for improvement, I believe in
-            refining my skills one design challenge at a time. If there's a
-            challenge, you can count on me to be right there, rolling up my
-            sleeves and diving in headfirst.
+            Confidence and curiosity are the twin engines of my
+            professionaljourney. With a ceaseless desire for improvement, I
+            believe inrefining my skills one design challenge at a time. If
+            there's achallenge, you can count on me to be right there, rolling
+            up mysleeves and diving in headfirst.
           </p>
         </div>
 
