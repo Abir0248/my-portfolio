@@ -105,7 +105,6 @@ const Contact = () => {
         <div className="info-map">
           Abir Hasnat,
           <br />
-          56 Jagannath Saharoad, <br />
           Lalbagh, Dhaka 1211 <br />
           Bangladesh,
           <br />
@@ -115,11 +114,11 @@ const Contact = () => {
         </div>
         <div className="map-wrap">
           <MapContainer
-            center={[23.71972247901826, 90.38217856615212]}
+            center={[23.71939703401023, 90.38631330289493]}
             zoom={13}
           >
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[23.7209668195878, 90.37994877216562]}>
+            <Marker position={[23.71939703401023, 90.38631330289493]}>
               <Popup>Abir lives here, come over for a cup of coffee</Popup>
             </Marker>
           </MapContainer>

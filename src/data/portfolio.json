@@ -1,70 +1,76 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/images/one.png",
+      "cover": "/portfolio/images/one.jpg",
       "title": "Event Management",
-      "description": "HTML,CSS",
+      "description": "HTML, CSS",
       "url": "https://abir0248.github.io/event-management/"
     },
     {
-      "cover": "/portfolio/images/two.png",
+      "cover": "/portfolio/images/two.jpg",
       "title": "Movie Zone",
       "description": "HTML, CSS",
       "url": "https://abir0248.github.io/movie-zone/"
     },
     {
-      "cover": "/portfolio/images/three.png",
+      "cover": "/portfolio/images/three.jpg",
       "title": "Mobile Picker",
       "description": "JS, HTML, CSS",
       "url": "https://mobile-picker.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/four.png",
+      "cover": "/portfolio/images/four.jpg",
       "title": "Temperature",
-      "description": "JSON, JS,HTML,CSS",
+      "description": "JSON, JS, HTML, CSS",
       "url": "https://temperature-city-by-abir.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/five.png",
+      "cover": "/portfolio/images/five.jpg",
       "title": "GGWP",
-      "description": "React, Bootstrap,JSON",
+      "description": "React, Bootstrap, JSON",
       "url": "https://world-countries-abir0248.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/six.png",
+      "cover": "/portfolio/images/six.jpg",
       "title": "Simple E Commerce",
-      "description": "React, Bootstrap,JSON",
+      "description": "React, Bootstrap, JSON",
       "url": "https://abir-e-commerce-using-react.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/seven.png",
+      "cover": "/portfolio/images/seven.jpg",
       "title": "To Do List",
       "description": "React, Bootstrap",
       "url": "https://abir-to-do-app.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/eight.png",
+      "cover": "/portfolio/images/eight.jpg",
       "title": "Expense Calculator",
       "description": "React, Tailwind",
       "url": "https://expense-calculator-abir0248.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/nine.png",
+      "cover": "/portfolio/images/nine.jpg",
       "title": "Insta Sohor",
       "description": "React, Tailwind",
       "url": "https://insta-shohor-abir0248.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/ten.png",
+      "cover": "/portfolio/images/ten.jpg",
       "title": "Abir tech",
       "description": "React, Tailwind",
       "url": "https://abir-tech.netlify.app/"
     },
     {
-      "cover": "/portfolio/images/eleven.png",
+      "cover": "/portfolio/images/eleven.jpg",
       "title": "Simple Pet Store",
       "description": "React, Tailwind",
       "url": "https://abir-online-pet-store.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/twelve.jpg",
+      "title": "My Portfolio",
+      "description": "React, Sass, JSX, JSON, Animate",
+      "url": "https://google.com"
     }
   ]
 }
