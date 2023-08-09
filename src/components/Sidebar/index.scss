@@ -180,6 +180,11 @@
       }
     }
 
+    nav.mobile-show + ul {
+      // When nav has the class 'mobile-show', show the ul
+      display: block;
+    }
+
     .hamburger-icon,
     .close-icon {
       position: absolute;
