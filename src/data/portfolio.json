@@ -1,0 +1,70 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/images/one.png",
+      "title": "Event Management",
+      "description": "HTML,CSS",
+      "url": "https://abir0248.github.io/event-management/"
+    },
+    {
+      "cover": "/portfolio/images/two.png",
+      "title": "Movie Zone",
+      "description": "HTML, CSS",
+      "url": "https://abir0248.github.io/movie-zone/"
+    },
+    {
+      "cover": "/portfolio/images/three.png",
+      "title": "Mobile Picker",
+      "description": "JS, HTML, CSS",
+      "url": "https://mobile-picker.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/four.png",
+      "title": "Temperature",
+      "description": "JSON, JS,HTML,CSS",
+      "url": "https://temperature-city-by-abir.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/five.png",
+      "title": "GGWP",
+      "description": "React, Bootstrap,JSON",
+      "url": "https://world-countries-abir0248.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/six.png",
+      "title": "Simple E Commerce",
+      "description": "React, Bootstrap,JSON",
+      "url": "https://abir-e-commerce-using-react.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/seven.png",
+      "title": "To Do List",
+      "description": "React, Bootstrap",
+      "url": "https://abir-to-do-app.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/eight.png",
+      "title": "Expense Calculator",
+      "description": "React, Tailwind",
+      "url": "https://expense-calculator-abir0248.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/nine.png",
+      "title": "Insta Sohor",
+      "description": "React, Tailwind",
+      "url": "https://insta-shohor-abir0248.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/ten.png",
+      "title": "Abir tech",
+      "description": "React, Tailwind",
+      "url": "https://abir-tech.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/images/eleven.png",
+      "title": "Simple Pet Store",
+      "description": "React, Tailwind",
+      "url": "https://abir-online-pet-store.netlify.app/"
+    }
+  ]
+}
