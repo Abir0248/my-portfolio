@@ -5,7 +5,6 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
-import Footer from './components/Footer'
 import './App.scss'
 
 function App() {
@@ -21,7 +20,6 @@ function App() {
           <Route path="/portfolio" element={<Portfolio />} />
         </Route>
       </Routes>
-      {location.pathname === '/' && <Footer />}
     </div>
   )
 }
