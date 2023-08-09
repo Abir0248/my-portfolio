@@ -1,0 +1,25 @@
+.footer {
+  @media screen and (min-width: 1201px) {
+    display: none; // Hide on larger screens
+  }
+
+  background-color: #181818;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  text-align: center;
+
+  a {
+    color: #4d4d4e;
+    margin: 0 10px;
+    font-size: 22px;
+    transition: color 0.3s;
+
+    &:hover {
+      color: #ffd700;
+    }
+  }
+}
