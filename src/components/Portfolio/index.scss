@@ -113,7 +113,7 @@
 }
 
 @media screen and (max-width: 1200px) {
-  .container.portfolio-page {
+  .portfolio-page {
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
@@ -122,9 +122,41 @@
       margin-left: 20px;
       margin-top: 20px;
     }
+
+    .images-container {
+      justify-content: space-between; // To ensure there's space between the cards
+    }
+
     .image-box {
-      height: 200px;
+      flex: 0 0 calc(50% - 10px); // Adjust to occupy 50% of the container
       max-width: calc(50% - 10px);
+      height: auto; // Let it adjust based on content
+
+      .title {
+        font-size: 18px;
+        line-height: 22px;
+      }
+
+      .description {
+        font-size: 12px;
+        margin-bottom: 10px; // Provide more space between description and button
+      }
+
+      .btn {
+        margin-top: 10px;
+        padding: 0 10px; // Reduce padding for mobile
+        height: 30px; // Adjust button height
+        line-height: 26px;
+      }
+
+      .content {
+        bottom: 0; // Always display the content in mobile view
+        background: linear-gradient(
+          180deg,
+          rgba(0, 0, 0, 0.2) 0,
+          rgba(0, 0, 0, 0.8) // Make it slightly more transparent
+        );
+      }
     }
   }
 }
